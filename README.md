@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/logo.png" alt="IRCTC Tatkal Superfast" width="150"/>
+  <img src="https://imgur.com/a/KtbkZJ6" alt="IRCTC Tatkal Superfast" width="150"/>
   <h1>IRCTC Tatkal Superfast Extension</h1>
   <p><strong>Book IRCTC Tatkal tickets faster than ever 🚄</strong></p>
 </div>
@@ -14,6 +14,7 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 
 ## 🔥 Features
 
+- Only Support IRCTC Wallet As Payment Method
 - Autofills all journey and passenger details
 - Automatically selects train, class, and quota
 - Supports payment method pre-selection
@@ -26,7 +27,7 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 
 ### Step 1: Download the Extension ZIP
 
-1. Visit the [GitHub repository](https://github.com/yourusername/irctc-tatkal-superfast).
+1. Visit the [GitHub repository]([https://github.com/yourusername/irctc-tatkal-superfast](https://github.com/irctctatkal/IRCTC-Tatkal-SuperFast-Extension)).
 2. Click the green **Code** button.
 3. Select **Download ZIP**.
 
@@ -88,18 +89,6 @@ Once loaded, you will see the **IRCTC Tatkal Superfast** icon in your extensions
 
 Found a bug? Have a feature request?
 
-- Open an issue [here](https://github.com/yourusername/irctc-tatkal-superfast/issues)
-- Or email: **support@yourdomain.com**
+- Open an issue [here](https://github.com/irctctatkal/IRCTC-Tatkal-SuperFast-Extension/issues)
 
 ---
-
-## ✨ Credits
-
-Made with ❤️ by [Your Name](https://github.com/yourusername)  
-© 2025 IRCTC Tatkal Superfast. All rights reserved.
-
----
-
-## 📄 License
-
-[MIT License](LICENSE)
