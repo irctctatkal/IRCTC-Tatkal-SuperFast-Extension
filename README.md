@@ -1,10 +1,8 @@
 <div align="center">
-  <img src="https://imgur.com/a/KtbkZJ6" alt="IRCTC Tatkal Superfast" width="150"/>
+  <img src="https://github.com/user-attachments/assets/009749da-0bd2-4fc3-87fe-8011b8b92cc0" alt="IRCTC Tatkal Superfast" width="150"/>
   <h1>IRCTC Tatkal Superfast Extension</h1>
   <p><strong>Book IRCTC Tatkal tickets faster than ever 🚄</strong></p>
 </div>
-
----
 
 ## ⚡ About
 
@@ -31,7 +29,8 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 2. Click the green **Code** button.
 3. Select **Download ZIP**.
 
-![Download ZIP](images/download-zip.png)
+<img width="1052" alt="Screenshot 2025-03-21 at 10 08 05 PM" src="https://github.com/user-attachments/assets/638aaebb-3a49-4263-8122-ba51aa2f29fa" />
+
 
 ---
 
@@ -66,8 +65,6 @@ Once loaded, you will see the **IRCTC Tatkal Superfast** icon in your extensions
 5. During Tatkal time, your saved details will autofill the IRCTC booking form
 6. Proceed with payment to complete the booking
 
-![Tool Screenshot](images/extension-ui.png)
-
 ---
 
 ## 🧩 Compatibility
@@ -81,9 +78,10 @@ Once loaded, you will see the **IRCTC Tatkal Superfast** icon in your extensions
 
 | Extension UI | Autofill in Action |
 |--------------|--------------------|
-| ![UI](images/extension-ui.png) | ![Autofill](images/autofill.png) |
+| <img width="1723" alt="Screenshot 2025-03-21 at 10 15 00 PM" src="https://github.com/user-attachments/assets/59ecf3b4-bfe9-4a6d-a838-6dbb696900b7" />
 
 ---
+
 
 ## 🛠️ Support
 
