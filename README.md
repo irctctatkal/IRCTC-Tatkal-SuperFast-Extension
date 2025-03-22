@@ -1,4 +1,4 @@
-<div align="center">
+<img width="705" alt="Screenshot 2025-03-22 at 5 36 30 AM" src="https://github.com/user-attachments/assets/41643a23-6861-46d8-bf1b-b03f9a9a08e4" /><img width="1664" alt="Screenshot 2025-03-22 at 5 37 07 AM" src="https://github.com/user-attachments/assets/849c9e25-b396-46cd-b1ac-70a5b52a88f0" /><img width="786" alt="Screenshot 2025-03-22 at 5 39 16 AM" src="https://github.com/user-attachments/assets/d76693c6-55e5-44d6-917d-af573259e5d9" /><div align="center">
   <img src="https://github.com/user-attachments/assets/009749da-0bd2-4fc3-87fe-8011b8b92cc0" alt="IRCTC Tatkal Superfast" width="150"/>
   <h1>IRCTC Tatkal Superfast Extension</h1>
   <p><strong>Book IRCTC Tatkal tickets faster than ever 🚄</strong></p>
@@ -49,8 +49,21 @@ After downloading:
 3. Enable **Developer Mode** at the top-right corner
 4. Click **Load unpacked**
 5. Select the extracted folder
+   
+**Here are the steps**
 
-![Load Unpacked](images/load-extension.png)
+<img width="1052" alt="Screenshot 2025-03-21 at 10 08 05 PM" src="https://github.com/user-attachments/assets/ffde9b2f-7da9-4791-8828-292725e74227" />
+
+<img width="1718" alt="Screenshot 2025-03-22 at 5 34 22 AM" src="https://github.com/user-attachments/assets/7155e6d9-9cf6-4ce4-96d1-18534328369f" />
+
+<img width="705" alt="Screenshot 2025-03-22 at 5 36 30 AM" src="https://github.com/user-attachments/assets/caf975a3-2f85-4dfc-a0c8-477f7ae7b1f1" />
+
+<img width="786" alt="Screenshot 2025-03-22 at 5 38 20 AM" src="https://github.com/user-attachments/assets/edf84f85-8d18-4a85-8ff2-b72e59c70988" />
+
+<img width="786" alt="Screenshot 2025-03-22 at 5 39 16 AM" src="https://github.com/user-attachments/assets/688f7a4a-8751-4227-8a48-c833239c07db" />
+
+<img width="1664" alt="Screenshot 2025-03-22 at 5 37 07 AM" src="https://github.com/user-attachments/assets/8306daf9-72de-4dde-84b9-4760ee4cc0c5" />
+
 
 Once loaded, you will see the **IRCTC Tatkal Superfast** icon in your extensions bar.
 
@@ -70,17 +83,15 @@ Once loaded, you will see the **IRCTC Tatkal Superfast** icon in your extensions
 ## 🧩 Compatibility
 
 - ✅ Google Chrome
-- ⚠️ May not work on Firefox or Edge (support coming soon)
+- ⚠️ May not work on Firefox (support coming soon)
 
 ---
 
 ## 📷 Screenshots
 
-| Extension UI | Autofill in Action |
-|--------------|--------------------|
-| <img width="1723" alt="Screenshot 2025-03-21 at 10 15 00 PM" src="https://github.com/user-attachments/assets/59ecf3b4-bfe9-4a6d-a838-6dbb696900b7" />
+| Extension UI |
 
----
+
 
 
 ## 🛠️ Support
