@@ -8,6 +8,17 @@
 
 The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to help users book Tatkal tickets on the IRCTC website with maximum speed and efficiency. Say goodbye to the race against time — prefill all your journey details and breeze through the booking process.
 
+
+---
+
+## 🔥 New Release Date: 23-March - 2025
+
+- Now We will verify accounts whether the wallet has enabled or disabled.
+- Planning to UPI payment options (Not Yet Implemented)
+- Increase performance by removing some unwanted code
+- Added new option "Book only if confirm berth is allocated" Check box
+ 
+
 ---
 
 ## 🔥 Features
