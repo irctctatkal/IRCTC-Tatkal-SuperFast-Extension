@@ -11,7 +11,18 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 
 ---
 
-## 🔥 New Release Date: 23-March - 2025
+---
+
+## 🔥 New Release Date: 24 - March - 2025
+
+- UPI Payment Supports Added - You can now choose any one of the payment, we would recommend IRCTC Wallet Always
+- Auto Save All Data
+- License Saving Issue Resolved
+- Some Minor Payments & UI Fixes
+
+
+
+##  Release Date: 23-March - 2025
 
 - Now We will verify accounts whether the wallet has enabled or disabled.
 - Planning to UPI payment options (Not Yet Implemented)
