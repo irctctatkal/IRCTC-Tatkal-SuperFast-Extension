@@ -124,6 +124,8 @@ Once loaded, you will see the **IRCTC Tatkal Superfast** icon in your extensions
 
 Found a bug? Have a feature request?
 
+- Ping us @RockyBearsGrills in Telegram and share your feedback/enhancements. 
+
 - Open an issue [here](https://github.com/irctctatkal/IRCTC-Tatkal-SuperFast-Extension/issues)
 
 ---
