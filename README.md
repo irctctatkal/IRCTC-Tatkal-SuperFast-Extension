@@ -34,7 +34,7 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 
 ## 🔥 Features
 
-- Only Support IRCTC Wallet As Payment Method
+- Support IRCTC Wallet & UPI Payments As Payment Method
 - Autofills all journey and passenger details
 - Automatically selects train, class, and quota
 - Supports payment method pre-selection
@@ -69,7 +69,7 @@ After downloading:
 1. Open Google Chrome
 2. Go to `chrome://extensions/`
 3. Enable **Developer Mode** at the top-right corner
-4. Click **Load unpacked**
+4. Click **Load unpacked** on the left top side
 5. Select the extracted folder
    
 **Here are the steps**
