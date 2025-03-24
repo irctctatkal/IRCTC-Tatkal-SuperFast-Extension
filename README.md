@@ -1,6 +1,6 @@
 
   <img src="https://github.com/user-attachments/assets/009749da-0bd2-4fc3-87fe-8011b8b92cc0" alt="IRCTC Tatkal Superfast" width="150"/>
-  <h1>IRCTC Tatkal Superfast Extension</h1>
+  <h1>IRCTC Tatkal Superfast Extension - Book Under 30 Seconds</h1>
   <p><strong>Book IRCTC Tatkal tickets faster than ever 🚄</strong></p>
 </div>
 
