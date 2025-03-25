@@ -20,7 +20,13 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 
 ---
 
----
+
+
+## 🔥 New Release Date: 25- March - 2025
+
+- Auto Booking Enabled
+- Some Minor Payments & UI Fixes
+  
 
 ## 🔥 New Release Date: 24 - March - 2025
 
