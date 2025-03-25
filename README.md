@@ -7,6 +7,11 @@
 </div>
 
 
+## ⚡ Video Demonstration
+
+[![Watch this video on YouTube](https://img.youtube.com/vi/eurfbjMqly4/0.jpg)](https://www.youtube.com/shorts/eurfbjMqly4)
+
+
 
 ## ⚡ About
 
