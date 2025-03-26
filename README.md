@@ -7,6 +7,18 @@
 </div>
 
 
+---
+
+## 💬 Join Our Telegram Channel 
+
+For Extension New Features Updates on Telegram!  
+<a href="https://t.me/tatkalsuperfast">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Icon" width="40" />
+</a>
+
+👉 [Join @tatkalsuperfast on Telegram](https://t.me/tatkalsuperfast)
+
+---
 
 ## ⚡ About
 
