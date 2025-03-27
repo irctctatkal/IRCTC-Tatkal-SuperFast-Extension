@@ -103,6 +103,17 @@ After downloading:
 3. Enable **Developer Mode** at the top-right corner
 4. Click **Load unpacked** on the left top side
 5. Select the extracted folder
+
+
+
+### Step 3: Load Extension in FIREFOX
+
+1. Open Firefox Browser
+2. Go to `about:debugging#/runtime/this-firefox`
+3. Click on  **Load Temprory Addon** button
+4. Now click on `manifest.json` file inside the extract zip file
+5. Now click on the extension icon on top right bookmar bar and click tatkal extension icon
+
    
 **Here are the steps**
 
