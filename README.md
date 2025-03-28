@@ -45,6 +45,11 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 
 ---
 
+## 🔥 New Release Date: 28- March - 2025
+
+- Fixed HTTP Errors
+
+
 ## 🔥 New Release Date: 26- March - 2025
 
 - Automatic Captcha Mode Added
