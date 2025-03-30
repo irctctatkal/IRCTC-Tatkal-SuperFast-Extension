@@ -45,6 +45,11 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 
 ---
 
+## 🔥 New Release Date: Version 7.4 Released 30- March - 2025
+
+- Now Payments Supports PayTM Option which is the fatest next to IRCTC Wallet
+- Added few performance improvements to handle all edge cases
+
 ## 🔥 New Release Date: 28- March - 2025
 
 - Fixed HTTP Errors
