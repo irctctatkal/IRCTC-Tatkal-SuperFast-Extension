@@ -22,15 +22,16 @@ For Extension New Features Updates on Telegram!
 
 ### Steps To Load/Install Extension in Chrome
 
-1.Download the Latest Zip File.
-2. Right click on the zip and click unzip/extract/unarchive, you will get a new folder with the tool name now 
-2. Open Google Chrome
-3. Go to `chrome://extensions/`
-4. Enable **Developer Mode** at the top-right corner
-5. Click **Load unpacked** on the left top side
-6. Now Select the folder which you unzipped and click open
-7. You can now see the extension added into your tool bar, click open. 
-8. For more detailed steps, scroll down for images navigation. 
+1. **Download the Latest Zip File.**
+2. **Extract the Zip File:** Right-click on the zip and select unzip/extract/unarchive. This will create a new folder with the tool name.
+3. **Open Google Chrome.**
+4. **Navigate to the Extensions Page:** Go to `chrome://extensions/`.
+5. **Enable Developer Mode:** Toggle **Developer Mode** at the top-right corner.
+6. **Load the Extension:** Click **Load unpacked** on the top left.
+7. **Select the Unzipped Folder:** Choose the folder you just extracted and click **Open**.
+8. **Verify the Extension:** You should now see the extension added to your toolbar; click it to open.
+9. **For More Details:** Scroll down for images and additional navigation steps.
+
 
 
 
