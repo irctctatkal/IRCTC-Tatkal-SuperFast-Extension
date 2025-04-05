@@ -50,6 +50,11 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 
 ---
 
+## 🔥 New Release Date: Version 7.6.3 Released 30- March - 2025
+
+- Added Boarding Station Option
+- Get verbose error message if you made any errors in the field. 
+
 ## 🔥 New Release Date: Version 7.4 Released 30- March - 2025
 
 - Now Payments Supports PayTM Option which is the fatest next to IRCTC Wallet
