@@ -37,11 +37,9 @@ For Extension New Features Updates on Telegram!
 
 ### Steps To Load Extension in FIREFOX
 
-1. Open Firefox Browser
-2. Go to `about:debugging#/runtime/this-firefox`
-3. Click on  **Load Temprory Addon** button
-4. Now click on `manifest.json` file inside the extract zip file
-5. Now click on the extension icon on top right bookmar bar and click tatkal extension icon
+1. Directly add our Firefox Extension from Add-on store
+
+https://addons.mozilla.org/en-US/firefox/addon/irctc-tatkal-superfast
 
 
 ## ⚡ About
