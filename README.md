@@ -39,7 +39,7 @@ For Extension New Features Updates on Telegram!
 
 1. Directly add our Firefox Extension from Add-on store
 
-https://addons.mozilla.org/en-US/firefox/addon/irctc-tatkal-superfast
+https://addons.mozilla.org/en-US/firefox/addon/tatkalforsure/
 
 
 ## ⚡ About
