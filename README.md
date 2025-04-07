@@ -2,7 +2,7 @@
 
   <img src="https://github.com/user-attachments/assets/009749da-0bd2-4fc3-87fe-8011b8b92cc0" alt="IRCTC Tatkal Superfast" width="400"/>
     <img src="https://github.com/user-attachments/assets/daaf7007-87a3-4e56-a471-0ea2d07c57ad" alt="ICON" width="400"/>
-  <h1>IRCTC Tatkal Superfast Extension - Book Under 30 Seconds</h1> 
+  <h1>IRCTC Tatkal For Sure Extension - Book Confirmed Tatkal Tickets </h1> 
   <p><strong>Book IRCTC Tatkal tickets faster than ever 🚄</strong></p>
 </div>
 
