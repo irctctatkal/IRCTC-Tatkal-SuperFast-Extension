@@ -48,6 +48,11 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 
 ---
 
+## 🔥 New Release Date: Version 8.0.3 Released 8 - April - 2025
+
+- Revamped Login Flow
+- Fixed Input validations on Passenger Inputs
+
 ## 🔥 New Release Date: Version 7.6.3 Released 30- March - 2025
 
 - Added Boarding Station Option
