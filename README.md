@@ -48,7 +48,10 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 
 ---
 
+## 🔥 New Release Date: Version 8.7.1 Released 12 - April - 2025
+- Fixed Payment issue during tatkal hours
 
+  
 ## 🔥 New Release Date: Version 8.5.3 Released 12 - April - 2025
 
 - Revamped Login/Tatkal flow
