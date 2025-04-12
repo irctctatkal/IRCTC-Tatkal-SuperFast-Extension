@@ -187,7 +187,7 @@ Once loaded, you will see the **IRCTC Tatkal Superfast** icon in your extensions
 ## 🧩 Compatibility
 
 - ✅ Google Chrome
-- ⚠️ May not work on Firefox (support coming soon)
+- ✅ Firefox
 
 ---
 
