@@ -48,6 +48,13 @@ The **IRCTC Tatkal Superfast Extension** is a powerful browser tool designed to 
 
 ---
 
+
+## 🔥 New Release Date: Version 8.5.3 Released 12 - April - 2025
+
+- Revamped Login/Tatkal flow
+- Added berth validation
+- Auto fixes some issues by default
+
 ## 🔥 New Release Date: Version 8.0.3 Released 8 - April - 2025
 
 - Revamped Login Flow
