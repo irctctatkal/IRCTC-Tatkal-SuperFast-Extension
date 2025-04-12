@@ -9,16 +9,7 @@
 
 ---
 
-## 💬 Join Our Telegram Channel 
 
-For Extension New Features Updates on Telegram!  
-<a href="https://t.me/tatkalsuperfast">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Icon" width="40" />
-</a>
-
-👉 [Join @tatkalsuperfast on Telegram](https://t.me/tatkalsuperfast)
-
----
 
 ### Steps To Load/Install Extension in Chrome
 
@@ -40,6 +31,19 @@ For Extension New Features Updates on Telegram!
 1. Directly add our Firefox Extension from Add-on store
 
 https://addons.mozilla.org/en-US/firefox/addon/tatkalforsure/
+
+
+
+## 💬 Join Our Telegram Channel 
+
+For Extension New Features Updates on Telegram!  
+<a href="https://t.me/tatkalsuperfast">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram Icon" width="40" />
+</a>
+
+👉 [Join @tatkalsuperfast on Telegram](https://t.me/tatkalsuperfast)
+
+---
 
 
 ## ⚡ About
